@@ -1,2 +1,2 @@
 # histopathologiccancerdetection
-Classification
+Classification- Pytorch
