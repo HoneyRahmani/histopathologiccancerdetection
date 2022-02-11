@@ -1,6 +1,6 @@
 
 ## Table of Content
-> * [Binary Classification - Pytorch](#BinaryClassification -Pytorch)
+> * [Binary Classification - Pytorch](#BinaryClassification-Pytorch)
 >   * [About the Project](#AbouttheProject)
 >   * [About Database](#AboutDatabases)
 >   * [Built with](#Builtwith)
@@ -16,7 +16,7 @@ In this project, medical image is to identify metastatic cancer. The goal of thi
 
 ## About Database
 
-Find dataset in https://www. kaggle.com/c/histopathologic-cancer-detection/data.
+Find dataset in https://www.kaggle.com/c/histopathologic-cancer-detection/data.
 
 
 ## Built with
